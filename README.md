@@ -24,3 +24,6 @@ Geospatial Mapping using GIS libraries
 Model Training and Validation (Random Forest, Linear Regression, etc.)
 Predictive Modeling of Crime Incidents
 Model Evaluation and Tuning
+
+![heatmap](https://github.com/user-attachments/assets/2cdeae1b-cc29-4039-9321-856f470e71b7)
+
